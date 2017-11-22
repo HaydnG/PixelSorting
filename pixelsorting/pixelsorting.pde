@@ -1,7 +1,3 @@
-// Daniel Shiffman
-// http://codingrainbow.com
-// http://patreon.com/codingrainbow
-// Code for: https://youtu.be/JUDYkxU6J0o
 
 PImage img;
 PImage sorted;
